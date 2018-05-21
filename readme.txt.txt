@@ -1,1 +1,3 @@
 This is a demo  folder for workshop on scm...
+
+Btw the workshop is pretty fun !!
